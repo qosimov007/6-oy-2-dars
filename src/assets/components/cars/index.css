@@ -1,0 +1,36 @@
+.card-wrapper{
+    border:3px solid rgb(32, 91, 219);
+    padding: 20px;
+  border-radius: 10px;
+  width: 1000px;
+  color:aliceblue;
+  font-family: sans-serif;
+
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+ margin: 0 auto;
+  margin-bottom: 20px;
+  background-color:#1d1f24;
+ }
+
+
+body{
+    background-color:#1d1f24;
+}
+
+
+ .card-text{
+    margin-right: 200px;
+ }
+
+ .header{
+    color:aliceblue;
+    display: flex;
+    padding: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 100px;
+    background-color:#101114;
+    justify-content: center;
+    align-items:center;
+ }
